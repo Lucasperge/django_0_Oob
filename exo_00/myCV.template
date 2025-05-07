@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CV de {prenom} {nom}</title>
+  </head>
+  <body>
+    <h1>{prenom} {nom}</h1>
+    <p>Âge : {age}</p>
+    <p>Profession : {profession}</p>
+  </body>
+</html>
